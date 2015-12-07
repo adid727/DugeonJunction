@@ -1,0 +1,6 @@
+c:\users\adid\documents\visual studio 2013\Projects\DugeonJunction\DugeonJunction\bin\Debug\DugeonJunction.exe.config
+c:\users\adid\documents\visual studio 2013\Projects\DugeonJunction\DugeonJunction\obj\Debug\DugeonJunction.csprojResolveAssemblyReference.cache
+c:\users\adid\documents\visual studio 2013\Projects\DugeonJunction\DugeonJunction\bin\Debug\DugeonJunction.exe
+c:\users\adid\documents\visual studio 2013\Projects\DugeonJunction\DugeonJunction\bin\Debug\DugeonJunction.pdb
+c:\users\adid\documents\visual studio 2013\Projects\DugeonJunction\DugeonJunction\obj\Debug\DugeonJunction.exe
+c:\users\adid\documents\visual studio 2013\Projects\DugeonJunction\DugeonJunction\obj\Debug\DugeonJunction.pdb
